@@ -1,0 +1,78 @@
+    1  -d Desktop
+    2  -p Desktop
+    3  git clone https://github.com/joaao-felipee22/ANDROID012020.git
+    4  -m Desktop
+    5  -d Desktop
+    6  git clone https://github.com/edu1345dev/RecyclerView.git
+    7  git clone https://github.com/joaao-felipee22/ANDROID012020.git
+    8  git clone
+    9  git clone https://github.com/edu1345dev/SharedPrefsEx.git
+   10  git clone https://github.com/edu1345dev/PermissionsEx.git
+   11  git clone https://github.com/edu1345dev/PermissionsEx.git
+   12  git clone https://github.com/edu1345dev/BroadcastReceiverExample.git
+   13  git clone https://github.com/MarmeladaMovie/MarmeladaMovie.git
+   14  git clone https://github.com/marcos-campos/Desafio-Android-Core.git
+   15  git clone https://github.com/edu1345dev/ProjectApp.git
+   16  git clone https://github.com/joaao-felipee22/RickMortyKt.git
+   17  git clone https://github.com/MarmeladaMovie/MarmeladaMovie.git
+   18  git clone https://github.com/MarmeladaMovie/MarmeladaMovie.git
+   19  git clone https://github.com/MarmeladaMovie/MarmeladaMovie.git
+   20  git clone https://github.com/MarmeladaMovie/MarmeladaMovie.git
+   21  git clone https://github.com/MarmeladaMovie/MarmeladaMovie.git
+   22  git clone https://github.com/MarmeladaMovie/MarmeladaMovie.git
+   23  git clone https://github.com/MarmeladaMovie/MarmeladaMovie.git
+   24  git clone https://github.com/MarmeladaMovie/MarmeladaMovie.git
+   25  mkdir pasta1
+   26  mkdir pasta2
+   27  mkdir pasta3
+   28  ls
+   29  cd pasta1
+   30  touch criar
+   31  touch mover1
+   32  touch excluir
+   33  ls
+   34  rm excluir
+   35  ls
+   36  mv moverAlterado
+   37  mv mover1 moverAlterado
+   38  ls
+   39  cd ..
+   40  cd pasta3
+   41  touch criar3
+   42  touch mover3
+   43  touch excluir3
+   44  rm excluir3
+   45  mv mover3 moverAlterado3
+   46  history
+   47  cd Desktop
+   48  git clone https://github.com/MarmeladaMovie/MarmeladaMovie.git
+   49  mkdir DH
+   50  cd DH
+   51  mkdir integracao_aula_1e2
+   52  mkdir DH
+   53  cd DH
+   54  mkdir integracao_aula_1e2
+   55  cd integracao_aula_1e2/
+   56  git init
+   57  cd Desktop
+   58  mkdir teste
+   59  cd teste
+   60  git init
+   61  touch app.js
+   62  git status
+   63  git add app.js
+   64  git status
+   65  git clone [200~https://github.com/joaogeovani/aula5github.git~
+   66  git clone https://github.com/joaogeovani/aula5github.git
+   67  git clone https://github.com/GuiMoreiraC/aula5github.git
+   68  git clone https://github.com/GuiMoreiraC/aula5github.git
+   69  git pull
+   70  touch Gibby.txt
+   71  touch Joao.txt
+   72  touch Geovani.txt
+   73  vi Gibby.txt
+   74  vi Joao.txt
+   75  vi Geovani.txt 
+   76  ls
+   77  cd comandosGit_grupo3/
+   78  history > Joao_Atv1.txt
