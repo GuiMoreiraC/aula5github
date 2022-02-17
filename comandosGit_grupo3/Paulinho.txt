@@ -1,0 +1,11 @@
+    1  ls
+    2  touch paulinho1.txt
+    3  vi paulinho1.txt
+    4  touch paulinho2.txt
+    5  vi paulinho2.txt
+    6  touch paulinho3.txt
+    7  vi paulinho3.txt
+    8  cd comandosGit_grupo3/
+    9  touch Paulinho
+   10  touch Paulinho.txt
+   11  history >  Paulinho.txt
